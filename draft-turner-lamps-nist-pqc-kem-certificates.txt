@@ -5,11 +5,11 @@
 None                                                           S. Turner
 Internet-Draft                                                     sn3rd
 Intended status: Standards Track                           P. Kampanakis
-Expires: 16 September 2022                                    J. Massimo
+Expires: 30 March 2023                                        J. Massimo
                                                                      AWS
                                                            B. Westerbaan
                                                               Cloudflare
-                                                           15 March 2022
+                                                       26 September 2022
 
 
 Algorithm Identifiers for NIST's PQC Algorithms for Use in the Internet
@@ -47,7 +47,8 @@ About This Document
    Discussion of this document takes place on the Limited Additional
    Mechanisms for PKIX and SMIME (lamps) Working Group mailing list
    (mailto:spasm@ietf.org), which is archived at
-   https://mailarchive.ietf.org/arch/browse/spasm/.
+   https://mailarchive.ietf.org/arch/browse/spasm/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/spasm/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/seanturner/draft-turner-lamps-nist-pqc-kem-
@@ -68,7 +69,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 September 2022.
+   This Internet-Draft will expire on 30 March 2023.
 
 Copyright Notice
 
