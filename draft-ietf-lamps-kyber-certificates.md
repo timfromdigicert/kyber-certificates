@@ -119,7 +119,7 @@ is defined as follows:
 <aside markdown="block">
 NOTE: The above syntax is from {{RFC5280}} and matches the version used
 therein, i.e., the 1988 ASN.1 syntax. See {{!RFC5912}} for ASN.1
-copmatible with the 2015 ASN.1 syntax.
+compatible with the 2015 ASN.1 syntax.
 </aside>
 
 The fields in AlgorithmIdentifier have the following meanings:
@@ -162,7 +162,7 @@ SubjectPublicKeyInfo type, which has the following ASN.1 syntax:
 <aside markdown="block">
 NOTE: The above syntax is from {{RFC5280}} and matches the version used
 therein, i.e., the 1988 ASN.1 syntax. See {{!RFC5912}} for ASN.1
-copmatible with the 2015 ASN.1 syntax.
+compatible with the 2015 ASN.1 syntax.
 </aside>
 
 The fields in SubjectPublicKeyInfo have the following meanings:
